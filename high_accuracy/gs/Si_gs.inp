@@ -22,7 +22,7 @@
   nelem  = 1
   natom  = 8
   nelec  = 32
-  nstate = 32
+  nstate = 64
 /
 
 &pseudo

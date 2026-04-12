@@ -58,8 +58,9 @@
 /
 
 &analysis
-  de      = 0.01d0
-  nenergy = 3000   ! 0-30 eV
+  de               = 0.01d0
+  nenergy          = 3000          ! 0-30 eV
+  projection_option = 'gs'         ! project to GS eigenstates -> Si_nex.data, Si_ovlp.data
 /
 
 &atomic_red_coor
